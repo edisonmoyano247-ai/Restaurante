@@ -12,6 +12,11 @@ Este proyecto consiste en un sistema modular en Python diseñado para gestionar 
 El repositorio está organizado de forma modular de acuerdo con la siguiente estructura de carpetas y archivos, es importante indicar que se utilizaron atributos: str para texto, int para números enteros, float para números decimales y bool.
 
 Repositorio GitHub
+## Estructura del Proyecto
+
+El repositorio está organizado de forma modular de acuerdo con la siguiente estructura de carpetas y archivos...
+
+```text
 restaurante_app/
 │
 ├── modelos/
